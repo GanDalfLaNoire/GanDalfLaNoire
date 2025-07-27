@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Will!
+I'm a Python enthusiast exploring cybersecurity and GUI development.
 
-<!--
-**GanDalfLaNoire/GanDalfLaNoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Python (validation, encryption, GUI with Tkinter)
+- Microsoft Office Suite (Excel, Access)
+- Networking & Information Assurance
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Password Manager with input validation
+- Modular username/password validator
+- Linux-based Notepad app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Entry-level cybersecurity or data entry role
+- Share and monetize projects on GitHub & freelancing platforms
+
+## 📫 Contact
+GitHub is home base for now—LinkedIn and portfolio portals are under construction 🛠️
